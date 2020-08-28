@@ -1,7 +1,13 @@
 # Ascii filter for image
 
 <br>
+
+### if you like this star it
+
+<br>
+
 ## how to use
+
 <br>
 
 ```bash
