@@ -11,7 +11,7 @@
 <br>
 
 ```bash
-git clone repo
+git clone https://github.com/souravlayek/imageasciifilter.git
 ```
 
 ### requirements
